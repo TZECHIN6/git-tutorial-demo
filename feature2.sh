@@ -1,3 +1,4 @@
 #!/bin/zsh
 
-echo "goodbye world"
+echo "Good morning, $(whoami)!"
+echo "Today is $(date +%Y-%m-%d)."
